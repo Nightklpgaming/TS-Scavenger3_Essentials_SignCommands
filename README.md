@@ -1,6 +1,6 @@
 # TS-Scavenger3_Essentials_SignCommands
-this was requested by [ pacenadhif777 ] 
-original plugin: https://github.com/Scavenger3/Essentials-SignCommands.git
+- this was requested by [ pacenadhif777 ] ( kobo_pace | Discord )
+- **original plugin:** https://github.com/Scavenger3/Essentials-SignCommands.git
 
 - to update this im planning to not change this plugin much as i want to leave the way it is
 
