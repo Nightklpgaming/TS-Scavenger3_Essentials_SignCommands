@@ -7,8 +7,8 @@ original plugin: https://github.com/Scavenger3/Essentials-SignCommands.git
 - so this plugin is where you easily execute a command using a sign
 
 - ive tested this plugin it works in weird way possible but its decent
-> start by placing a sign then put **[Sign Command]** you can change that in config file if i know
-> next is type the prefix which is **>** can also change in config file
+> start by placing a sign then put `[Sign Command]` you can change that in config file if i know
+> next is type the prefix which is `>` can also change in config file
 > now you can do like `>spawnmob 1 1`
 >
 > to execute the sign command you have to interact or try to destroy it
