@@ -1,0 +1,15 @@
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\bin\Debug\net6.0\HttpServer.dll
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\bin\Debug\net6.0\Scavenger3_Essentials-SignCommands.deps.json
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\bin\Debug\net6.0\Scavenger3_Essentials-SignCommands.dll
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\bin\Debug\net6.0\Scavenger3_Essentials-SignCommands.pdb
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\bin\Debug\net6.0\Wolfje.Plugins.SEconomy.dll
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.csproj.AssemblyReference.cache
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.AssemblyInfoInputs.cache
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.AssemblyInfo.cs
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.csproj.CoreCompileInputs.cache
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenge.09E259FB.Up2Date
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.dll
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\refint\Scavenger3_Essentials-SignCommands.dll
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\Scavenger3_Essentials-SignCommands.pdb
+C:\Users\Rock\source\repos\Scavenger3_Essentials-SignCommands\Scavenger3_Essentials-SignCommands\obj\Debug\net6.0\ref\Scavenger3_Essentials-SignCommands.dll

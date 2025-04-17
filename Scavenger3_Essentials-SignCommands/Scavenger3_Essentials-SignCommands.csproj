@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Scavenger3_Essentials_SignCommands</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OTAPI.Upcoming" Version="3.1.20" />
+    <PackageReference Include="TSAPI" Version="5.2.1" />
+    <PackageReference Include="TShock" Version="5.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Wolfje.Plugins.SEconomy">
+      <HintPath>..\Refs\Wolfje.Plugins.SEconomy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
